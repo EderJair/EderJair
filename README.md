@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fhtml%2F&psig=AOvVaw0Tr0L_Z3I1PwFqyKOC2uQL&ust=1686690139525000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMirtcjQvv8CFQAAAAAdAAAAABAI" alt="Card header"/>
+  <img src="descarga.jpeg" alt="Card header"/>
 </div>
 
 <p align="center">

@@ -84,7 +84,7 @@
 <div>
 
   ## 📊 &nbsp;My activities
-  <h1> not jet </h1>
+  <h3> not yet </h3>
   </a>
 </div>
 
@@ -107,11 +107,5 @@
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
-
-<!-- ## 📚 &nbsp;My Projects -->
-
-
-------
-Credits: [Pepyn0](https://github.com/Pepyn0)
 
 Last Edited on: 26/05/2022

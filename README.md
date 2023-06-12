@@ -7,7 +7,9 @@
 
 
 <div align="center">
-  <img src="97525955-fondo-de-pantalla-digital-de-diseño-moderno-para-diseño-de-banner-vector-de-fondo-de-código-binario.webp" alt="Card header"/>
+  <h1>
+    EDER JAIR QUISPE NAHUI
+  </h1>
 </div>
 
 <p align="center">

@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="descarga.jpeg" alt="Card header"/>
+  <img src="97525955-fondo-de-pantalla-digital-de-diseño-moderno-para-diseño-de-banner-vector-de-fondo-de-código-binario.webp" alt="Card header"/>
 </div>
 
 <p align="center">
